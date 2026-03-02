@@ -39,4 +39,3 @@ Das Plugin erstellt automatisch die folgenden Dateien im plugins/VerifyPlugin-Or
     key.yml: Speichert den aktuellen Verifizierungsschlüssel.
     verifiedPlayers.yml: Speichert die UUIDs verifizierter Spieler.
 <img width="1055" height="287" alt="Screenshot 2026-03-02 110944" src="https://github.com/user-attachments/assets/fff0ec8f-5e10-42bf-967a-0640ab0b04e0" />
-<img width="926" height="204" alt="Screenshot 2026-03-02 111124" src="https://github.com/user-attachments/assets/7f598d3f-4e99-4756-9851-142c266bb309" />
