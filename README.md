@@ -1,3 +1,5 @@
+<img width="926" height="204" alt="Screenshot 2026-03-02 1115124" src="https://github.com/user-attachments/assets/5a4e4c8c-011b-415c-9cae-92aae3b8d83f" />
+<img width="926" height="204" alt="Screenshot 2026-03-02 1115124" src="https://github.com/user-attachments/assets/5a4e4c8c-011b-415c-9cae-92aae3b8d83f" />
 # My-VerfifyPlugin
 My-VerifyPlugin ist noch nicht ganz Fertig.
 
